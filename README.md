@@ -30,9 +30,26 @@ In this bootcamp we carry out real projects, both individually and as a team. I 
   - Dedication and Effort
   - Responsibility
 
-## Clone my Git hub repository and link
+## Clone my Git hub repository and Link
 
-git clone https://github.com/Susipro/my_biography
+git clone https://github.com/Susipro
   
+## My Development Stacks 
+  - HTML5
+  - CSS
+  - JS
+  - PHP
+  - sass
+  - SQL
+  
+### Frameworks
+  - PHPunit
+  - Vue
+  - Larvel
 
-
+### Application programming interface
+  - APIs
+   
+### Library
+  - PDO_MySQL
+  - Bootstrap
