@@ -1,9 +1,11 @@
 # My_biography
-Important things about my life, things I like and personal skills
+
+Important things about my life, things I like and personal skills.
 
 
 ## About me
-I am a positive and happy girlhardworking girl. 
+
+I am a positive and happy girlhardworking girl, I like to enjoy the simple things in life, socialize with friends and family whenever I can and I love movies of any genre.
 
 I have worked as a Painter, Teleoperator, Administrative, and Driving School Teacher and I liked them.
 
@@ -27,6 +29,10 @@ In this bootcamp we carry out real projects, both individually and as a team. I 
   - Ability to learn and adapt
   - Dedication and Effort
   - Responsibility
+
+## Clone my Git hub repository and link
+
+git clone https://github.com/Susipro/my_biography
   
 
 
