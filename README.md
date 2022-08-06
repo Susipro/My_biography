@@ -42,7 +42,7 @@ In this bootcamp we carry out real projects, both individually and as a team. I 
  - git clone https://github.com/Susipro/jumanji
  - git clone https://github.com/Susipro/wheelOfDoom
  - git clone https://github.com/Susipro/api_proyect_heroes
- - git clone https://github.com/Equipo-Proton/Proyecto-PHP
+ - git clone https://github.com/Susipro/Proyecto-PHP
 
  - git clone https://github.com/Susipro/way-homeAPI
  - git clone https://github.com/Susipro/way-home
